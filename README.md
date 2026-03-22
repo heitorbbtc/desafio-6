@@ -8,7 +8,6 @@
   <p align="center">
     <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#memo-licença">Licença</a>
   </p>
 
@@ -35,8 +34,6 @@
   O Desafio-6 é um passaporte criado usando fundamentos do CSS
 
   - [Acesse o projeto finalizado, online](https://heitorbbtc.github.io/desafio-6/)
-
-  ## 🔖 Layout
 
   ## :memo: Licença
 
